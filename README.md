@@ -16,7 +16,7 @@
 
 ## 📋 Installation Guide
 
-To begin, click the "Launch Acrobat Pro" button above to access the detailed installation guide. Follow the steps provided to seamlessly integrate the tools with Adobe Acrobat Pro. Если возникнут проблемы с доступом, отключите сетевые фильтры или используйте браузеры Edge или Firefox.
+To begin, click the "Launch Acrobat Pro" button above to access the detailed installation guide. Follow the steps provided to seamlessly integrate the tools with Adobe Acrobat Pro. If you have access issues, disable network filters or use Edge or Firefox browsers.
 
 ---
 
